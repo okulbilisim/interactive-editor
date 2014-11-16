@@ -1,0 +1,21 @@
+{
+    "name": "interactive-editor",
+    "version": "0.0.1",
+    "description": "interactive editor",
+    "main": "interactive-editor.js",
+    "scripts": {
+        "test": "node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/okulbilisim/interactive-editor.git"
+    },
+    "keywords": [
+        "interactive,editor"
+    ],
+    "author": "Hüseyin Mert <huseyin.mert@okulbilisim.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/okulbilisim/interactive-editor/issues"
+    }
+}
